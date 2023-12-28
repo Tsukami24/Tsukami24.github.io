@@ -8,10 +8,12 @@ body{
     background-color: #790252;
 }
 
+
 a,
 button{
     cursor: pointer;
 }
+
 
 nav{
     width: 100%;
